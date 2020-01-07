@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//うごかない？
 int plus(int a, int b) {
     return a + b;
 }
